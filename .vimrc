@@ -79,3 +79,4 @@ set incsearch
 set ignorecase smartcase
 " set listchars=trail:.,tab:>-,extends:>,precedes:<,nbsp:¬
 " set list
+
